@@ -1,5 +1,5 @@
 We provide two sets of pdb files of KRas dimer. 
-All structures, which were final snapshots for 8-microsecond trajectories, were cooled down from 310 K to 0.1 K for 10 ps, and then have energy minimized.
+All structures, which were final snapshots from 8-microsecond trajectories, were cooled down from 310 K to 0.1 K for 10 ps, and then have energy minimized.
 Solvent accessible surface areas were computed for these structures.
 1. PDB_2RAS contains structures of only KRas dimer, GTP and MG
 
