@@ -12,3 +12,5 @@ of simulation time, then ranked based on Solvent accessible surface areas (SASA)
 5. load_selected_structures.vmd is also provided to have color-coded segments for the KRas dimer
 
 6. PNG files generated from those 25 structures with the *vmd file 
+
+Please cite: Van A. Ngo and Angel E. Garcia, ["Millisecond Molecular Dynamics Simulations of KRas Dimer Formation and Interfaces"](https://doi.org/10.1016/j.bpj.2022.04.026) 
