@@ -6,4 +6,4 @@ Structures :  Finger  ,   Finger , interface ,    conformation
 
 Figure     : Fig. S11a,  Fig. 5c ,  Fig. 4d  ,  Fig. 2f
 
-Please cite: 
+Please cite: Van A. Ngo and Angel E. Garcia, ["Millisecond Molecular Dynamics Simulations of KRas Dimer Formation and Interfaces"](https://doi.org/10.1016/j.bpj.2022.04.026) 
