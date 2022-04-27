@@ -9,4 +9,4 @@ These structures were re-centered and properly wrap into the unit cell.
 We can provide Amber restart files and Prmtop upon request.
 Please read README.md in PDB_2RAS for more information.
 
-Please cite as [.]
+Please cite: Van A. Ngo and Angel E. Garcia, ["Millisecond Molecular Dynamics Simulations of KRas Dimer Formation and Interfaces"](https://doi.org/10.1016/j.bpj.2022.04.026) 
