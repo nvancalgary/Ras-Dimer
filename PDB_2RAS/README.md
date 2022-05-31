@@ -14,3 +14,4 @@ of simulation time, then ranked based on Solvent accessible surface areas (SASA)
 6. PNG files generated from those 25 structures with the *vmd file 
 
 Please cite: Van A. Ngo and Angel E. Garcia, ["Millisecond Molecular Dynamics Simulations of KRas Dimer Formation and Interfaces"](https://doi.org/10.1016/j.bpj.2022.04.026) 
+Questions to ngoav at ornl dot gov. 
